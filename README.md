@@ -1,4 +1,5 @@
 # Education Post 12th Report
+![education post 12](https://github.com/user-attachments/assets/a23dd1f5-2c8f-43e2-83c7-f45a53536c48)
 
 ## **Data**
 The objective of this analysis is to gain insights into the characteristics of colleges and answer key questions related to the educational landscape. By understanding the data, we aim to inform strategies for improving the quality of education and enhancing the overall college experience. The analysis will provide valuable insights and recommendations for stakeholders in the education sector.
